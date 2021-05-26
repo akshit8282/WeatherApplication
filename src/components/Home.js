@@ -4,7 +4,7 @@ import Titles from "./Titles";
 import Form from "./Form";
 import Weather from "./Weather";
 import tryagain from '../images/tryagain.jpg'
-import natural from '../images/natural.jpg'
+
 import Navbar from '../components/Navbar'
 
 const API_KEY = "6e4b6f248f9ad121b13b5b474be159a6";
